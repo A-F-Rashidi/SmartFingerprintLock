@@ -55,3 +55,8 @@ Install the following libraries via the Arduino Library Manager:
 ```cpp
 #define AUTHOR_EMAIL "your_email@gmail.com"
 #define AUTHOR_PASSWORD "your_app_password"
+
+## ✍️ Author
+
+**Amirhosien Farshbaf Rashidi*  
+ESP32 Security Projects - 2025
